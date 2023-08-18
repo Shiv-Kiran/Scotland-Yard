@@ -1,0 +1,2 @@
+https://docs.oracle.com/javase/7/docs/api/java/util/concurrent/Semaphore.html - semaphores documentation
+https://stackoverflow.com/questions/15753869/implementing-a-cyclicbarrier-in-java-using-semaphores - for barriers
